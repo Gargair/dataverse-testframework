@@ -8,7 +8,6 @@
 │   ├── Plugins/          # Plugin test helpers and runners
 │   ├── CodeActivities/   # Code activity test helpers and runners
 │   ├── Mocks/            # Mocks, fakes, and test doubles for Dataverse
-│   └── Runner/           # CLI or UI for running tests
 │
 ├── tests/                # All test code (unit, integration, scenario)
 │   ├── Core/
@@ -17,7 +16,6 @@
 │   └── Mocks/
 │
 ├── docs/                 # Documentation
-│   └── architecture-and-structure.md
 │
 ├── examples/             # Example test projects and sample plugins/code activities
 │

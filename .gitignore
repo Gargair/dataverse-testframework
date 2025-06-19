@@ -1,0 +1,149 @@
+# .NET and Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.csproj.user
+*.pidb
+*.svclog
+*.pdb
+*.cache
+*.dbmdl
+*.log
+*.vs/
+TestResults/
+.vscode/
+_ReSharper*/
+*.ncrunch*
+*.localhistory/
+*.DS_Store
+*.idea/
+*.sln.ide
+*.sln.iml
+*.sln.cache
+*.sln.docstates
+*.vspscc
+*.vssscc
+*.scc
+*.orig
+*.bak
+*.swp
+*.tmp
+*.tmp_proj
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.pidb
+*.svclog
+*.pdb
+*.cache
+*.dbmdl
+*.log
+*.vs/
+TestResults/
+.vscode/
+_ReSharper*/
+*.ncrunch*
+*.localhistory/
+*.DS_Store
+*.idea/
+*.sln.ide
+*.sln.iml
+*.sln.cache
+*.sln.docstates
+*.vspscc
+*.vssscc
+*.scc
+*.orig
+*.bak
+*.swp
+*.tmp
+*.tmp_proj
+# NuGet
+*.nupkg
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+# Rider
+.idea/
+*.sln.iml
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+# Others
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.vspscc
+*.vssscc
+*.scc
+*.orig
+*.bak
+*.swp
+*.tmp
+*.tmp_proj
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+# DotCover
+*.dotCover
+# NCrunch
+*.ncrunch*
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+# Visual Studio Trace Files
+*.e2e
+# TFS
+$tf/
+# Azure DevOps
+.vspscc
+.vssscc
+# Rider
+.idea/
+*.sln.iml
+# Local History for Visual Studio
+.localhistory/
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+# Folder config file
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+# VS Code
+.vscode/
+# Others
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.vspscc
+*.vssscc
+*.scc
+*.orig
+*.bak
+*.swp
+*.tmp
+*.tmp_proj 
